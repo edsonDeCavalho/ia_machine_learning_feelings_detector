@@ -1,11 +1,5 @@
-# Rendu TP IA Machine learning 
+# IA machine learnig feelings detector
 ![alt text](https://cdn-icons-png.flaticon.com/256/9626/9626671.png)
-### _Semaine : 18/03/2024 à 22/03/2024_ 
-
-## Membres du groupe : 
-- ## Edson Kennedy DE CARVALHO 
-- ## Alexandre VAUTHIER
-- ## Tom GOURDY
 
 ## Prerequisites
 
